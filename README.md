@@ -4,4 +4,5 @@ This is an attempt to create an artistic image generator that recreates the inpu
 
 The following are the some of the results : 
 
-![myimage-alt-tag](/input_images/athena.jpg)
+<img src=/final_output/tyrion.jpeg width="240" height="300" hspace="20"/>   <img src=/final_output/athena.jpg width="240" height="300" hspace="20"/> <img src=/final_output/out_tyrion_athena.png width="240" height="300" hspace="20"/>
+
