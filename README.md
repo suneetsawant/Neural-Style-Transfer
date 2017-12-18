@@ -4,9 +4,9 @@ This is an implementation of the [neural style transfer](https://arxiv.org/pdf/1
 
 The following are some of the results : 
 
-<img src=/final_output/wolf.jpg  width="240" height="300" hspace="20" alt="content" title="content" /> <img src=/final_output/chip.jpg width="240" height="300" hspace="20"/> <img src=/final_output/out_wolf_chip.png width="240" height="300" hspace="20"/>
+<img src=/final_output/wolf.jpg  width="240" height="240" hspace="20" alt="content" title="content" /> <img src=/final_output/chip.jpg width="240" height="240" hspace="20"/> <img src=/final_output/out_wolf_chip.png width="240" height="240" hspace="20"/>
 
-<img src=/final_output/content.png width="240" height="300" hspace="20"/>   <img src=/final_output/style.jpeg width="240" height="300" hspace="20"/> <img src=/final_output/out_content_style.png width="240" height="300" hspace="20"/>
+<img src=/final_output/content.png width="240" height="240" hspace="20"/>   <img src=/final_output/style.jpeg width="240" height="240" hspace="20"/> <img src=/final_output/out_content_style.png width="240" height="240" hspace="20"/>
 
-<img src=/final_output/tyrion.jpeg width="240" height="300" hspace="20"/>   <img src=/final_output/athena.jpg width="240" height="300" hspace="20"/> <img src=/final_output/out_tyrion_athena.png width="240" height="300" hspace="20"/>
+<img src=/final_output/tyrion.jpeg width="240" height="240" hspace="20"/>   <img src=/final_output/athena.jpg width="240" height="240" hspace="20"/> <img src=/final_output/out_tyrion_athena.png width="240" height="240" hspace="20"/>
 
